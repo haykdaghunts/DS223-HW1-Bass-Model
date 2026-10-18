@@ -1,0 +1,9 @@
+{
+  "high_income_population_2024": {"value": 1417841927, "source": "World Bank WDI via FRED, SPPOPTOTLHIC: https://fred.stlouisfed.org/series/SPPOPTOTLHIC"},
+  "share_aged_0_14_high_income_2024": {"value": 0.1568, "source": "World Bank WDI via FRED, SPPOP0014TOZSHIC: https://fred.stlouisfed.org/series/SPPOP0014TOZSHIC"},
+  "wearable_ownership_rate_2024": {"value": 0.411, "source": "HINTS 2020-2024 survey-weighted analysis, PMC12795147: https://pmc.ncbi.nlm.nih.gov/articles/PMC12795147"},
+  "smart_ring_share_of_wearable_owners": {"low": 0.025, "base": 0.05, "high": 0.10, "source": "Assumption (Fermi). Today rings are ~0.3% of wearable shipments (IDC: 1.7M rings of 537.9M wearables, 2024); base assumes long-run share rises ~15x as the category matures."},
+  "idc_wearables_2024_units": {"value": 537900000, "source": "IDC press release 2024-09-26: https://www.idc.com/resource-center/press-releases/idc-forecasts-continued-growth-for-wearables-but-growth-will-be-uneven-across-product-categories/"},
+  "idc_smart_rings_2024_units": {"value": 1700000, "source": "IDC press release 2024-09-26 (same as above)"},
+  "oura_smart_ring_market_share": {"value": 0.74, "source": "Omdia, H1 2025, reported by Wareable: https://www.wareable.com/wearable-tech/oura-smart-ring-sales-five-million-market-report"}
+}
